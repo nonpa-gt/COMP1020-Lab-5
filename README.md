@@ -1,8 +1,8 @@
 # COMP1020 Laboratory #4
 
-##Lab 4 Instructions
+## Lab 4 Instructions
 
-###Lab Goals
+### Lab Goals
 
 The goal of this lab is to:
 
