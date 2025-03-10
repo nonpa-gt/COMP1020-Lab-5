@@ -1,7 +1,8 @@
-# COMP1020 Laboratory #5
+# COMP1020 Laboratory #4
 
-Lab 5 Instructions
-Lab Goals
+##Lab 4 Instructions
+###Lab Goals
+
 The goal of this lab is to:
 
 Get setup on GitHub
